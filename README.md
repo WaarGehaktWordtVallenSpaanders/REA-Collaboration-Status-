@@ -1,2 +1,2 @@
 # REA-Collaboration-Status-
-REA Collaboration Status implementation with MERODE, based on the monograph
+An executable implementation of the REA Collaboration status framework as presented in the [monograph](https://aaahqbookstore.org/catalog/book/rea-accounting-model-accounting-and-economic-ontology), using [MERODE](https://merode.econ.kuleuven.be)
